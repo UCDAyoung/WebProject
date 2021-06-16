@@ -128,10 +128,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
     opacity: 0;
 }
 #clk:hover{
-    color : deeppink;
+    color : white;
 }
 #clk{
     transition: color 0.7s ease;
+    color : deeppink;
 }   
 
 
