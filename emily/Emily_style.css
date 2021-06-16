@@ -65,7 +65,7 @@ a {
 
 /*여기까지 초기화*/
 #portrait {
-    background-image: url(/images/emily01.jpg);
+    background-image: url(../images/emily01.jpg);
     /*tip : height를 padding-top과 padding-bottom으로 대신 잡는다.*/
     /*ex) height :200px; 처럼 고정시키지 않음.*/
     padding-top: 56.25%;
